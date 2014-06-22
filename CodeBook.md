@@ -4,7 +4,9 @@ CodeBook.md
 This file contains more detail about the variables in the output file "tidyData.txt":
 
 ###Activity
+
 variable name: activity
+
 Activity performed:
 1 WALKING
 2 WALKING_UPSTAIRS
@@ -14,11 +16,15 @@ Activity performed:
 6 LAYING
 
 ###Subject
+
 variable name: subject
+
 Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
 ###Features
+
 variable names:
+
 - tBodyAcc-mean()-X
 - tBodyAcc-mean()-Y
 - tBodyAcc-mean()-Z
