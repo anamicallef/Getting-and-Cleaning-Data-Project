@@ -89,7 +89,7 @@ Finally it exports the new tidy data frame to the working directory with the nam
 
 ```r
 #exporting the tidy data frame
-write.table(tidyData, file="tidyData.txt", sep=" ")
+write.table(tidyData, file="tidyData.txt", sep=" ", row.names=FALSE)
 ```
 
 
